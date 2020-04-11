@@ -1,0 +1,9 @@
+name: LockItem
+main: me.moose.LockItem.Main
+version: 1.0
+author: Moose1301
+commands:
+   LockItem:
+    description: Lock a Item in your hotbar from being dropped
+    usage: /<command>
+    aliases: [li,LockI,locki,lockitem]
